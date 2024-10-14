@@ -1,0 +1,9 @@
+python-dotenv
+langchain-openai
+langchain-community
+langchain-core
+langchain-experimental
+presidio-analyzer
+presidio-anonymizer
+spacy
+Faker

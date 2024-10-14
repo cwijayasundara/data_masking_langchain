@@ -1,0 +1,51 @@
+Patient Information:
+
+	•	Name: John Doe
+	•	Date of Birth: April 15, 1980
+	•	Gender: Male
+	•	Insurance ID: ABC123456789
+
+Admission Information:
+
+	•	Admission Date: October 5, 2024
+	•	Discharge Date: October 10, 2024
+	•	Hospital Name: City General Hospital
+	•	Room Type: Semi-private
+	•	Admission Type: Emergency
+
+Medical Diagnostics Summary:
+
+	•	Primary Diagnosis: Acute Appendicitis (ICD-10: K35.80)
+	•	Secondary Diagnoses:
+	•	Hypertension (ICD-10: I10)
+	•	Type 2 Diabetes Mellitus (ICD-10: E11.9)
+	•	Dehydration (ICD-10: E86.0)
+
+Treatment Details:
+
+	•	Procedure 1: Appendectomy (CPT: 44970)
+	•	Date: October 6, 2024
+	•	Surgeon: Dr. Jane Smith
+	•	Procedure 2: Post-operative care and wound management
+	•	Date: October 7-10, 2024
+	•	Nurse: Sarah Thomas
+
+Medications Administered:
+
+	•	Pain Relief: Morphine 10mg IV
+	•	Antibiotics: Ceftriaxone 1g IV
+	•	Antihypertensives: Lisinopril 10mg orally
+	•	Diabetic Management: Insulin 10 units subcutaneously
+
+Billing Summary:
+
+	•	Room Charges: $1,500
+	•	Surgical Charges: $3,200
+	•	Medical Supplies: $500
+	•	Medications: $350
+	•	Total Claim Amount: $5,550
+	•	Insurance Coverage: 80%
+	•	Amount Payable by Patient: $1,110
+
+Attending Physician: Dr. Jane Smith, General Surgery
+Follow-up Appointment: October 20, 2024
